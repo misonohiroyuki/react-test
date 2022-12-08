@@ -1,8 +1,15 @@
 
 function App() {
+
+
   return (
-        <h1>UNKO!</h1>
-  );
+    <div>
+<label>test</label>
+  <input type="text" onChange={()=>{console.log("clicked")}}/>
+  </div>
+)
+
+
 }
 
 export default App;
