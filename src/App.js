@@ -1,12 +1,7 @@
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>UNKO!</p>
-
-      </header>
-    </div>
+        <h1>UNKO!</h1>
   );
 }
 
